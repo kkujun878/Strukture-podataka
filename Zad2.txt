@@ -1,0 +1,6 @@
+﻿Build started at 12:26...
+1>------ Build started: Project: strukture, Configuration: Debug x64 ------
+1>strukture.cpp
+1>strukture.vcxproj -> C:\Users\kujun\source\repos\strukture\x64\Debug\strukture.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:26 and took 04,195 seconds ==========
